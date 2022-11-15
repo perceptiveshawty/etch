@@ -3,9 +3,6 @@
 
 [posts]
 
-[posts.title]
-other = "Posts"
-
 [posts.date]
 other = "Jan 2, 2006"
 
